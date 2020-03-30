@@ -1,0 +1,52 @@
+Abhishek Ranchi Amritsar
+Shakti Ranchi Delhi
+Nitish Delhi Amritsar
+Umang Prayagraj Amritsar
+Amit Ranchi Prayagraj
+
+
+Abhishek1 Prayagraj Amritsar
+Shakti1 Prayagraj Delhi
+Nitish1 Delhi Amritsar
+Umang1 Prayagraj Amritsar
+Amit1 Prayagraj Delhi
+
+
+Abhishek2 Delhi Amritsar
+Shakti2 Prayagraj Amritsar
+Nitish2 Delhi Amritsar
+Umang2 Prayagraj Amritsar
+Amit2 Ranchi Delhi
+
+
+Abhishek3 Delhi Amritsar
+Shakti3 Prayagraj Amritsar
+Nitish3 Delhi Amritsar
+Umang3 Prayagraj Amritsar
+Amit3 Ranchi Delhi
+
+
+Abhishek4 Delhi Amritsar
+Shakti4 Prayagraj Amritsar
+Nitish4 Delhi Amritsar
+Umang4 Prayagraj Amritsar
+Amit4 Ranchi Delhi
+
+Abhishek5 Prayagraj Amritsar
+Shakti5 Prayagraj Delhi
+Nitish5 Delhi Amritsar
+Umang5 Prayagraj Amritsar
+Amit5 Prayagraj Delhi
+
+Abhishek6 Prayagraj Amritsar
+Shakti6 Prayagraj Delhi
+Nitish6 Delhi Amritsar
+Umang6 Prayagraj Amritsar
+Amit6 Prayagraj Delhi
+
+
+Abhishek7 Ranchi Amritsar
+Shakti7 Prayagraj Delhi
+Nitish7 Ranchi Amritsar
+Umang7 Delhi Amritsar
+Amit7 Ranchi Delhi
